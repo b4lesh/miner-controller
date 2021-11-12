@@ -10,12 +10,19 @@ async function getProcessList(): Promise<Process[]> {
   })
   await sleep(1000);
 
-  const dirtyList: Process[] = resultFromTaskList.split('\n').map((line: string) => {
-    const allProcesses = line.split(' ').filter((element: string) => element !== '')
-    return { name: allProcesses[0], pid: Number(allProcesses[1]) }
+  const dirtyList: Array<Process | null> = resultFromTaskList.split('\n').map((line: string) => {
+    const dirtyMatch: string[] | null = line.match(/.+\.exe/gm);
+    if (dirtyMatch === null) {
+      return null;
+    }
+    const name: string = dirtyMatch[0];
+    const columns = line.replace(name, '').split(' ').filter((element: string) => element !== '');
+    return { name: name, pid: Number(columns[0]) }
   })
 
-  return dirtyList.filter((process: Process) => !isNaN(process.pid));
+  return dirtyList.filter((process: Process | null) =>
+    process !== null && !isNaN(process.pid)
+  ) as Process[];
 }
 
 async function getMinerPids(): Promise<number[]> {
