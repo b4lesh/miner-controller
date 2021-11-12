@@ -10,10 +10,10 @@ export function sleep(timeout: number): Promise<void> {
   return new Promise(resolve => setTimeout(resolve, timeout))
 }
 
-export function getLogTime(): string {
+export function log(text: string): void {
   const currentDate: Date = new Date();
   const seconds: string = addZero(currentDate.getSeconds());
   const minutes: string = addZero(currentDate.getMinutes());
   const hours: string = addZero(currentDate.getHours());
-  return `[${hours}:${minutes}:${seconds}]`;
+  console.log(`[${hours}:${minutes}:${seconds}] ${text}`);
 }

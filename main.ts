@@ -1,6 +1,6 @@
 import { exec, execFile } from 'child_process'
 import { kill } from 'process'
-import { getLogTime, sleep } from './helpers';
+import { log, sleep } from './helpers';
 import { Process } from './interfaces/process';
 
 async function getProcessList(): Promise<Process[]> {
@@ -18,22 +18,30 @@ async function getProcessList(): Promise<Process[]> {
   return dirtyList.filter((process: Process) => !isNaN(process.pid));
 }
 
-function startMiner(): void {
-  execFile(
-    '.\\NBMiner_Win\\nbminer.exe',
-    ['-a', 'ethash', '-o', 'stratum+tcp://vethash.poolbinance.com:1800', '-u', 'Miningb4lesh.GTX1060'],
-    (error, stdout) => {
-      console.log(stdout.toString())
-    }
-  )
+async function getMinerPids(): Promise<number[]> {
+  const processList: Process[] = await getProcessList();
+  return processList
+    .filter((process: Process) => process.name === 'nbminer.exe')
+    .map((process: Process) => process.pid);
+}
+
+async function startMiner(): Promise<void> {
+  const minerPids: number[] = await getMinerPids();
+  if (minerPids.length === 0) {
+    log('Mining mode. Miner launching');
+    execFile(
+      '.\\NBMiner_Win\\nbminer.exe',
+      ['-a', 'ethash', '-o', 'stratum+tcp://vethash.poolbinance.com:1800', '-u', 'Miningb4lesh.GTX1060']
+    );
+  }
 }
 
 async function stopMiner(): Promise<void> {
-  const processList: Process[] = await getProcessList();
-  const minerPids: number[] = processList
-    .filter((process: Process) => process.name === 'nbminer.exe')
-    .map((process: Process) => process.pid);
-  minerPids.forEach((pid: number) => kill(pid))
+  const minerPids: number[] = await getMinerPids();
+  if (minerPids.length > 0) {
+    log('Game mode. Miner disabling');
+    minerPids.forEach((pid: number) => kill(pid));
+  }
 }
 
 async function checkGameProcesses(): Promise<boolean> {
@@ -43,41 +51,21 @@ async function checkGameProcesses(): Promise<boolean> {
 }
 
 function setOverclockProfile(name: 'mining' | 'gaming'): void {
-  exec(`.\\overclock\\${name}.lnk`, (error, stdout) => {
-    console.log(stdout.toString())
-  })
+  exec(`.\\overclock\\${name}.lnk`)
 }
 
 async function main(): Promise<void> {
-  let isMiner: boolean = false;
-  let isGame: boolean = false;
-
-  // Turn on script;
-  console.log('Start miner');
-  setOverclockProfile('mining');
-  startMiner();
-  isMiner = true;
-
   const status = true;
   while (status) {
     const result: boolean = await checkGameProcesses();
     if (result) {
-      if (isMiner) {
-        console.log(getLogTime(), 'Game found. Stop mining');
-        isMiner = false;
-        await stopMiner();
-        setOverclockProfile('gaming');
-      }
+      await stopMiner();
+      setOverclockProfile('gaming');
     } else {
-      if (!isMiner) {
-        console.log(getLogTime(), 'The game is off. Start mining');
-        isMiner = true;
-        await startMiner();
-        setOverclockProfile('mining');
-      }
+      await startMiner();
+      setOverclockProfile('mining');
     }
-
-    await sleep(1000);
+    await sleep(60000);
   }
 }
 
