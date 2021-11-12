@@ -1,0 +1,34 @@
+[20:03:38] INFO - ----------------------------------------------
+[20:03:38] INFO - |                                            |
+[20:03:38] INFO - |                                            |
+[20:03:38] INFO - |                                            |
+[20:03:38] INFO - |                                            |
+[20:03:38] INFO - |                                            |
+[20:03:38] INFO - |                                            |
+[20:03:38] INFO - |                                            |
+[20:03:38] INFO - |         NBMiner - Crypto GPU Miner         |
+[20:03:38] INFO - |                    39.7                    |
+[20:03:38] INFO - |                                            |
+[20:03:38] INFO - ----------------------------------------------
+[20:03:38] INFO - ------------------- System -------------------
+[20:03:38] INFO - OS:     Windows 10 Version 2009, 10.0.22000
+[20:03:38] INFO - CPU:    11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz
+[20:03:38] INFO - RAM:    26558 MB / 32623 MB
+[20:03:38] INFO - VMEM:   31993 MB / 40815 MB
+[20:03:38] INFO - CU_DRV: 11.5, 496.49
+[20:03:38] INFO - ------------------- Config -------------------
+[20:03:38] INFO - ALGO:   ethash
+[20:03:38] INFO - URL:    stratum+tcp://vethash.poolbinance.com:1800
+[20:03:38] INFO - USER:   Miningb4lesh.GTX1060
+[20:03:38] INFO - TEMP:   limit 90C, start 85C
+[20:03:38] INFO - ------------------- Device -------------------
+[20:03:38] INFO -  |ID|PCI|  CC|Memory|CU|
+[20:03:38] INFO - *| 0|  1|  61| 6143M|10| NVIDIA GeForce GTX 1060 6GB
+[20:03:38] INFO - ----------------------------------------------
+[20:03:39] INFO - ethash - Logging in to vethash.poolbinance.com(76.223.62.235):1800 ...
+[20:03:39] INFO - ethash - Login succeeded.
+[20:03:39] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: ff4b29ef, HEIGHT: 1816274, DIFF: 8.590G
+[20:03:39] INFO - API:  0.0.0.0:22333
+[20:03:39] INFO - API server started.
+[20:03:41] INFO - Device 0 started, Free mem = 5228 MB.
+[20:03:43] INFO - Light cache built, 2.02 s.

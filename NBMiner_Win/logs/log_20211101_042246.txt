@@ -1,0 +1,39 @@
+[04:22:46] INFO - ----------------------------------------------
+[04:22:46] INFO - |                                            |
+[04:22:46] INFO - |                                            |
+[04:22:46] INFO - |                                            |
+[04:22:46] INFO - |                                            |
+[04:22:46] INFO - |                                            |
+[04:22:46] INFO - |                                            |
+[04:22:46] INFO - |                                            |
+[04:22:46] INFO - |         NBMiner - Crypto GPU Miner         |
+[04:22:46] INFO - |                    39.7                    |
+[04:22:46] INFO - |                                            |
+[04:22:46] INFO - ----------------------------------------------
+[04:22:46] INFO - ------------------- System -------------------
+[04:22:46] INFO - OS:     Windows 10 Version 2009, 10.0.22000
+[04:22:46] INFO - CPU:    11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz
+[04:22:46] INFO - RAM:    22766 MB / 32623 MB
+[04:22:46] INFO - VMEM:   28035 MB / 40815 MB
+[04:22:46] INFO - CU_DRV: 11.5, 496.49
+[04:22:46] INFO - ------------------- Config -------------------
+[04:22:46] INFO - ALGO:   ethash
+[04:22:46] INFO - URL:    stratum+tcp://ethash.poolbinance.com:1800
+[04:22:46] INFO - USER:   Miningb4lesh.001
+[04:22:46] INFO - TEMP:   limit 90C, start 85C
+[04:22:46] INFO - ------------------- Device -------------------
+[04:22:46] INFO -  |ID|PCI|  CC|Memory|CU|
+[04:22:46] INFO - *| 0|  1|  61| 6143M|10| NVIDIA GeForce GTX 1060 6GB
+[04:22:46] INFO - ----------------------------------------------
+[04:22:46] INFO - ethash - Logging in to ethash.poolbinance.com(13.248.162.234):1800 ...
+[04:22:46] INFO - ethash - Login succeeded.
+[04:22:46] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 4d243f5f, HEIGHT: 243647, DIFF: 8.590G
+[04:22:46] INFO - API:  0.0.0.0:22333
+[04:22:46] WARN - API server start failed: The bound address is already in use
+[04:22:49] INFO - Device 0 started, Free mem = 5132 MB.
+[04:22:51] INFO - Light cache built, 2.33 s.
+[04:22:53] INFO - Device 0: DAG - Building, EPOCH 450
+[04:23:00] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: db6a79f7, HEIGHT: 243647, DIFF: 8.590G
+[04:23:00] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 2652bf87, HEIGHT: 243647, DIFF: 8.590G
+[04:23:09] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: a5fdf421, HEIGHT: 243647, DIFF: 8.590G
+[04:23:10] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 76ea20aa, HEIGHT: 243647, DIFF: 8.590G

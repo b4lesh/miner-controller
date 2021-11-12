@@ -1,0 +1,111 @@
+[11:16:20] INFO - ----------------------------------------------
+[11:16:20] INFO - |                                            |
+[11:16:20] INFO - |                                            |
+[11:16:20] INFO - |                                            |
+[11:16:20] INFO - |                                            |
+[11:16:20] INFO - |                                            |
+[11:16:20] INFO - |                                            |
+[11:16:20] INFO - |                                            |
+[11:16:20] INFO - |         NBMiner - Crypto GPU Miner         |
+[11:16:20] INFO - |                    39.7                    |
+[11:16:20] INFO - |                                            |
+[11:16:20] INFO - ----------------------------------------------
+[11:16:20] INFO - ------------------- System -------------------
+[11:16:20] INFO - OS:     Windows 10 Version 2009, 10.0.22000
+[11:16:20] INFO - CPU:    11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz
+[11:16:20] INFO - RAM:    20180 MB / 32623 MB
+[11:16:20] INFO - VMEM:   26158 MB / 40815 MB
+[11:16:20] INFO - CU_DRV: 11.5, 496.49
+[11:16:20] INFO - ------------------- Config -------------------
+[11:16:20] INFO - ALGO:   ethash
+[11:16:20] INFO - URL:    stratum+tcp://vethash.poolbinance.com:1800
+[11:16:20] INFO - USER:   Miningb4lesh.GTX1060
+[11:16:20] INFO - TEMP:   limit 90C, start 85C
+[11:16:20] INFO - ------------------- Device -------------------
+[11:16:20] INFO -  |ID|PCI|  CC|Memory|CU|
+[11:16:20] INFO - *| 0|  1|  61| 6143M|10| NVIDIA GeForce GTX 1060 6GB
+[11:16:20] INFO - ----------------------------------------------
+[11:16:20] INFO - ethash - Logging in to vethash.poolbinance.com(76.223.62.235):1800 ...
+[11:16:20] INFO - ethash - Login succeeded.
+[11:16:20] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: f1748d1e, HEIGHT: 1140393, DIFF: 8.590G
+[11:16:20] INFO - API:  0.0.0.0:22333
+[11:16:20] INFO - API server started.
+[11:16:23] INFO - Device 0 started, Free mem = 5228 MB.
+[11:16:26] INFO - Light cache built, 3.82 s.
+[11:16:28] INFO - Device 0: DAG - Building, EPOCH 451
+[11:16:32] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: fe8dee50, HEIGHT: 1140393, DIFF: 8.590G
+[11:16:32] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 08b93a84, HEIGHT: 1140393, DIFF: 8.590G
+[11:16:39] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 7d2a8211, HEIGHT: 1140393, DIFF: 8.590G
+[11:16:39] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: a3e8c906, HEIGHT: 1140393, DIFF: 8.590G
+[11:16:50] INFO - ================== [nbminer v39.7] Summary 2021-11-04 11:16:50 ===================
+[11:16:50] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[11:16:50] INFO - | 0|  1060|  0.000 |     0|     0|  0|  87|  66|    | 49|1974| 4303|  49|  0.000 |
+[11:16:50] INFO - |------------------+------+------+---+----+--------------------------------------|
+[11:16:50] INFO - |    Total:  0.000 |     0|     0|  0|  87| Uptime:  0D 00:00:30        CPU: 99% |
+[11:16:50] INFO - ==================================================================================
+[11:16:50] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[11:16:53] INFO - Device 0: DAG - Built, 24.92 s.
+[11:16:55] INFO - Device 0: DAG - Verification ok.
+[11:17:09] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: ac9e8874, HEIGHT: 1140393, DIFF: 8.590G
+[11:17:20] INFO - ================== [nbminer v39.7] Summary 2021-11-04 11:17:20 ===================
+[11:17:20] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[11:17:20] INFO - | 0|  1060| 12.63 M|     0|     0|  0|  97|  68|    | 49|1974| 4303|  82| 130.2 K|
+[11:17:20] INFO - |------------------+------+------+---+----+--------------------------------------|
+[11:17:20] INFO - |    Total: 12.63 M|     0|     0|  0|  97| Uptime:  0D 00:01:00        CPU: 99% |
+[11:17:20] INFO - ==================================================================================
+[11:17:20] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[11:17:33] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 7f77789d, HEIGHT: 1140393, DIFF: 8.590G
+[11:17:33] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: ca9bd1d9, HEIGHT: 1140393, DIFF: 8.590G
+[11:17:50] INFO - ================== [nbminer v39.7] Summary 2021-11-04 11:17:50 ===================
+[11:17:50] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[11:17:50] INFO - | 0|  1060| 12.13 M|     0|     0|  0|  92|  69|    | 49|1974| 4303|  78| 131.8 K|
+[11:17:50] INFO - |------------------+------+------+---+----+--------------------------------------|
+[11:17:50] INFO - |    Total: 12.13 M|     0|     0|  0|  92| Uptime:  0D 00:01:30        CPU: 99% |
+[11:17:50] INFO - ==================================================================================
+[11:17:50] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[11:18:03] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: e946d1da, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:10] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 6d294157, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:10] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: b9efaaf4, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:20] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 80b50e24, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:20] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 6e1b7444, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:20] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 10ff5dfe, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:20] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: f80cce7c, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:20] INFO - ================== [nbminer v39.7] Summary 2021-11-04 11:18:20 ===================
+[11:18:20] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[11:18:20] INFO - | 0|  1060| 11.96 M|     0|     0|  0|  92|  70|    | 49|1974| 4303|  75| 130.1 K|
+[11:18:20] INFO - |------------------+------+------+---+----+--------------------------------------|
+[11:18:20] INFO - |    Total: 11.96 M|     0|     0|  0|  92| Uptime:  0D 00:02:00        CPU: 99% |
+[11:18:20] INFO - ==================================================================================
+[11:18:20] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[11:18:23] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 754261d0, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:26] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: a0891226, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:29] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 32608d17, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:31] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 919c5ca6, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:31] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 5a092192, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:37] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 447b5576, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:37] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: f338d8d1, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:44] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 91f05b90, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:44] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: cd92fcc6, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:47] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 6d0fd482, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:50] INFO - ================== [nbminer v39.7] Summary 2021-11-04 11:18:50 ===================
+[11:18:50] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[11:18:50] INFO - | 0|  1060| 11.56 M|     0|     0|  0|  95|  70|    | 50|1974| 4303|  76| 121.7 K|
+[11:18:50] INFO - |------------------+------+------+---+----+--------------------------------------|
+[11:18:50] INFO - |    Total: 11.56 M|     0|     0|  0|  95| Uptime:  0D 00:02:30        CPU: 98% |
+[11:18:50] INFO - ==================================================================================
+[11:18:50] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[11:18:56] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: bf614b4a, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:56] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 57bb0cf6, HEIGHT: 1140393, DIFF: 8.590G
+[11:18:59] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: bf21c75c, HEIGHT: 1140393, DIFF: 8.590G
+[11:19:02] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 776b8033, HEIGHT: 1140393, DIFF: 8.590G
+[11:19:02] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 0478f47a, HEIGHT: 1140393, DIFF: 8.590G
+[11:19:10] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 44ffc496, HEIGHT: 1140393, DIFF: 8.590G
+[11:19:10] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 8e395675, HEIGHT: 1140393, DIFF: 8.590G
+[11:19:13] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 7b14b32b, HEIGHT: 1140393, DIFF: 8.590G
+[11:19:20] INFO - ================== [nbminer v39.7] Summary 2021-11-04 11:19:20 ===================
+[11:19:20] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[11:19:20] INFO - | 0|  1060| 10.60 M|     0|     0|  0|  89|  70|    | 50|1974| 4303|  68| 119.1 K|
+[11:19:20] INFO - |------------------+------+------+---+----+--------------------------------------|
+[11:19:20] INFO - |    Total: 10.60 M|     0|     0|  0|  89| Uptime:  0D 00:03:00        CPU: 67% |
+[11:19:20] INFO - ==================================================================================
+[11:19:20] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 

@@ -1,0 +1,1 @@
+nbminer -a ethash -o stratum+tcp://vethash.poolbinance.com:1800 -u Miningb4lesh.GTX1060 -log

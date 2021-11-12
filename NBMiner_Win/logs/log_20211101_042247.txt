@@ -1,0 +1,48 @@
+[04:22:47] INFO - ----------------------------------------------
+[04:22:47] INFO - |                                            |
+[04:22:47] INFO - |                                            |
+[04:22:47] INFO - |                                            |
+[04:22:47] INFO - |                                            |
+[04:22:47] INFO - |                                            |
+[04:22:47] INFO - |                                            |
+[04:22:47] INFO - |                                            |
+[04:22:47] INFO - |         NBMiner - Crypto GPU Miner         |
+[04:22:47] INFO - |                    39.7                    |
+[04:22:47] INFO - |                                            |
+[04:22:47] INFO - ----------------------------------------------
+[04:22:47] INFO - ------------------- System -------------------
+[04:22:47] INFO - OS:     Windows 10 Version 2009, 10.0.22000
+[04:22:47] INFO - CPU:    11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz
+[04:22:47] INFO - RAM:    22744 MB / 32623 MB
+[04:22:47] INFO - VMEM:   27997 MB / 40815 MB
+[04:22:47] INFO - CU_DRV: 11.5, 496.49
+[04:22:47] INFO - ------------------- Config -------------------
+[04:22:47] INFO - ALGO:   ethash
+[04:22:47] INFO - URL:    stratum+tcp://ethash.poolbinance.com:8888
+[04:22:47] INFO - USER:   Miningb4lesh.RTX1060
+[04:22:47] INFO - TEMP:   limit 90C, start 85C
+[04:22:48] INFO - ------------------- Device -------------------
+[04:22:48] INFO -  |ID|PCI|  CC|Memory|CU|
+[04:22:48] INFO - *| 0|  1|  61| 6143M|10| NVIDIA GeForce GTX 1060 6GB
+[04:22:48] INFO - ----------------------------------------------
+[04:22:48] INFO - ethash - Logging in to ethash.poolbinance.com(13.248.162.234):8888 ...
+[04:22:48] INFO - ethash - Login succeeded.
+[04:22:48] INFO - ethash - New job: ethash.poolbinance.com:8888, ID: 4d243f5f, HEIGHT: 755822, DIFF: 8.590G
+[04:22:48] INFO - API:  0.0.0.0:22333
+[04:22:48] WARN - API server start failed: The bound address is already in use
+[04:22:50] INFO - Device 0 started, Free mem = 5092 MB.
+[04:22:52] INFO - Light cache built, 2.16 s.
+[04:22:54] INFO - Device 0: DAG - Building, EPOCH 450
+[04:23:00] INFO - ethash - New job: ethash.poolbinance.com:8888, ID: db6a79f7, HEIGHT: 755822, DIFF: 8.590G
+[04:23:00] INFO - ethash - New job: ethash.poolbinance.com:8888, ID: 2652bf87, HEIGHT: 755822, DIFF: 8.590G
+[04:23:09] INFO - ethash - New job: ethash.poolbinance.com:8888, ID: a5fdf421, HEIGHT: 755822, DIFF: 8.590G
+[04:23:10] INFO - ethash - New job: ethash.poolbinance.com:8888, ID: 76ea20aa, HEIGHT: 755822, DIFF: 8.590G
+[04:23:13] INFO - ethash - New job: ethash.poolbinance.com:8888, ID: 63306370, HEIGHT: 755822, DIFF: 8.590G
+[04:23:14] INFO - ethash - New job: ethash.poolbinance.com:8888, ID: 6d9f5bfd, HEIGHT: 755822, DIFF: 8.590G
+[04:23:18] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:23:18 ===================
+[04:23:18] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:23:18] INFO - | 0|  1060|  0.000 |     0|     0|  0|  32|  55|    | 50|1506| 4498|  85|  0.000 |
+[04:23:18] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:23:18] INFO - |    Total:  0.000 |     0|     0|  0|  32| Uptime:  0D 00:00:30        CPU: 17% |
+[04:23:18] INFO - ==================================================================================
+[04:23:18] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 

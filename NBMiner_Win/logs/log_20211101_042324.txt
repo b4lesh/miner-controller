@@ -1,0 +1,35 @@
+[04:23:24] INFO - ----------------------------------------------
+[04:23:24] INFO - |                                            |
+[04:23:24] INFO - |                                            |
+[04:23:24] INFO - |                                            |
+[04:23:24] INFO - |                                            |
+[04:23:24] INFO - |                                            |
+[04:23:24] INFO - |                                            |
+[04:23:24] INFO - |                                            |
+[04:23:24] INFO - |         NBMiner - Crypto GPU Miner         |
+[04:23:24] INFO - |                    39.7                    |
+[04:23:24] INFO - |                                            |
+[04:23:24] INFO - ----------------------------------------------
+[04:23:24] INFO - ------------------- System -------------------
+[04:23:24] INFO - OS:     Windows 10 Version 2009, 10.0.22000
+[04:23:24] INFO - CPU:    11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz
+[04:23:24] INFO - RAM:    15922 MB / 32623 MB
+[04:23:24] INFO - VMEM:   21692 MB / 40815 MB
+[04:23:24] INFO - CU_DRV: 11.5, 496.49
+[04:23:24] INFO - ------------------- Config -------------------
+[04:23:24] INFO - ALGO:   ethash
+[04:23:24] INFO - URL:    stratum+tcp://ethash.poolbinance.com:1800
+[04:23:24] INFO - USER:   Miningb4lesh.001
+[04:23:24] INFO - TEMP:   limit 90C, start 85C
+[04:23:25] INFO - ------------------- Device -------------------
+[04:23:25] INFO -  |ID|PCI|  CC|Memory|CU|
+[04:23:25] INFO - *| 0|  1|  61| 6143M|10| NVIDIA GeForce GTX 1060 6GB
+[04:23:25] INFO - ----------------------------------------------
+[04:23:25] INFO - ethash - Logging in to ethash.poolbinance.com(13.248.162.234):1800 ...
+[04:23:25] INFO - ethash - Login succeeded.
+[04:23:25] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 9cc08004, HEIGHT: 383724, DIFF: 8.590G
+[04:23:25] INFO - API:  0.0.0.0:22333
+[04:23:25] WARN - API server start failed: The bound address is already in use
+[04:23:27] INFO - Device 0 started, Free mem = 2540 MB.
+[04:23:29] INFO - Light cache built, 2.05 s.
+[04:23:31] INFO - Device 0: DAG - Building, EPOCH 450

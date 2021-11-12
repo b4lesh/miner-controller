@@ -1,0 +1,34 @@
+[03:58:33] INFO - ----------------------------------------------
+[03:58:33] INFO - |                                            |
+[03:58:33] INFO - |                                            |
+[03:58:33] INFO - |                                            |
+[03:58:33] INFO - |                                            |
+[03:58:33] INFO - |                                            |
+[03:58:33] INFO - |                                            |
+[03:58:33] INFO - |                                            |
+[03:58:33] INFO - |         NBMiner - Crypto GPU Miner         |
+[03:58:33] INFO - |                    39.7                    |
+[03:58:33] INFO - |                                            |
+[03:58:33] INFO - ----------------------------------------------
+[03:58:33] INFO - ------------------- System -------------------
+[03:58:33] INFO - OS:     Windows 10 Version 2009, 10.0.22000
+[03:58:33] INFO - CPU:    11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz
+[03:58:33] INFO - RAM:    25426 MB / 32623 MB
+[03:58:33] INFO - VMEM:   31230 MB / 40815 MB
+[03:58:33] INFO - CU_DRV: 11.5, 496.49
+[03:58:33] INFO - ------------------- Config -------------------
+[03:58:33] INFO - ALGO:   ethash
+[03:58:33] INFO - URL:    stratum+tcp://ethash.poolbinance.com:1800
+[03:58:33] INFO - USER:   Miningb4lesh.001
+[03:58:33] INFO - TEMP:   limit 90C, start 85C
+[03:58:33] INFO - ------------------- Device -------------------
+[03:58:33] INFO -  |ID|PCI|  CC|Memory|CU|
+[03:58:33] INFO - *| 0|  1|  61| 6143M|10| NVIDIA GeForce GTX 1060 6GB
+[03:58:33] INFO - ----------------------------------------------
+[03:58:34] INFO - ethash - Logging in to ethash.poolbinance.com(76.223.62.235):1800 ...
+[03:58:34] INFO - ethash - Login succeeded.
+[03:58:34] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: acccf036, HEIGHT: 687976, DIFF: 8.590G
+[03:58:34] INFO - API:  0.0.0.0:22333
+[03:58:34] INFO - API server started.
+[03:58:36] INFO - Device 0 started, Free mem = 5228 MB.
+[03:58:38] INFO - Light cache built, 1.98 s.

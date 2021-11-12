@@ -1,0 +1,547 @@
+[03:59:57] INFO - ----------------------------------------------
+[03:59:57] INFO - |                                            |
+[03:59:57] INFO - |                                            |
+[03:59:57] INFO - |                                            |
+[03:59:57] INFO - |                                            |
+[03:59:57] INFO - |                                            |
+[03:59:57] INFO - |                                            |
+[03:59:57] INFO - |                                            |
+[03:59:57] INFO - |         NBMiner - Crypto GPU Miner         |
+[03:59:57] INFO - |                    39.7                    |
+[03:59:57] INFO - |                                            |
+[03:59:57] INFO - ----------------------------------------------
+[03:59:57] INFO - ------------------- System -------------------
+[03:59:57] INFO - OS:     Windows 10 Version 2009, 10.0.22000
+[03:59:57] INFO - CPU:    11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz
+[03:59:57] INFO - RAM:    25408 MB / 32623 MB
+[03:59:57] INFO - VMEM:   31191 MB / 40815 MB
+[03:59:57] INFO - CU_DRV: 11.5, 496.49
+[03:59:57] INFO - ------------------- Config -------------------
+[03:59:57] INFO - ALGO:   ethash
+[03:59:57] INFO - URL:    stratum+tcp://ethash.poolbinance.com:1800
+[03:59:57] INFO - USER:   Miningb4lesh.001
+[03:59:57] INFO - TEMP:   limit 90C, start 85C
+[03:59:57] INFO - ------------------- Device -------------------
+[03:59:57] INFO -  |ID|PCI|  CC|Memory|CU|
+[03:59:57] INFO - *| 0|  1|  61| 6143M|10| NVIDIA GeForce GTX 1060 6GB
+[03:59:57] INFO - ----------------------------------------------
+[03:59:57] INFO - ethash - Logging in to ethash.poolbinance.com(76.223.62.235):1800 ...
+[03:59:57] INFO - ethash - Login succeeded.
+[03:59:57] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 205f761f, HEIGHT: 839108, DIFF: 8.590G
+[03:59:57] INFO - API:  0.0.0.0:22333
+[03:59:57] INFO - API server started.
+[03:59:58] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: b666e086, HEIGHT: 839108, DIFF: 8.590G
+[03:59:59] INFO - Device 0 started, Free mem = 5228 MB.
+[04:00:01] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 2a54a9d5, HEIGHT: 839108, DIFF: 8.590G
+[04:00:01] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 744e1f21, HEIGHT: 839108, DIFF: 8.590G
+[04:00:01] INFO - Light cache built, 1.96 s.
+[04:00:03] INFO - Device 0: DAG - Building, EPOCH 450
+[04:00:14] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 389bcc49, HEIGHT: 839108, DIFF: 8.590G
+[04:00:14] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 24186d52, HEIGHT: 839108, DIFF: 8.590G
+[04:00:17] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 01e09312, HEIGHT: 839108, DIFF: 8.590G
+[04:00:18] INFO - Device 0: DAG - Built, 14.68 s.
+[04:00:19] INFO - Device 0: DAG - Verification ok.
+[04:00:20] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 30f77d65, HEIGHT: 839108, DIFF: 8.590G
+[04:00:21] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: da43d03c, HEIGHT: 839108, DIFF: 8.590G
+[04:00:21] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 73789747, HEIGHT: 839108, DIFF: 8.590G
+[04:00:26] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: bd5e430c, HEIGHT: 839108, DIFF: 8.590G
+[04:00:26] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 1ab5b95a, HEIGHT: 839108, DIFF: 8.590G
+[04:00:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:00:27 ===================
+[04:00:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:00:27] INFO - | 0|  1060| 19.68 M|     0|     0|  0|  77|  42|    | 60|1670| 4498|  94| 255.6 K|
+[04:00:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:00:27] INFO - |    Total: 19.68 M|     0|     0|  0|  77| Uptime:  0D 00:00:30        CPU:  2% |
+[04:00:27] INFO - ==================================================================================
+[04:00:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:00:29] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 64a4069b, HEIGHT: 839108, DIFF: 8.590G
+[04:00:32] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 851037e8, HEIGHT: 839108, DIFF: 8.590G
+[04:00:36] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 8ade05e7, HEIGHT: 839108, DIFF: 8.590G
+[04:00:36] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: bc90b6ce, HEIGHT: 839108, DIFF: 8.590G
+[04:00:43] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 56da53df, HEIGHT: 839108, DIFF: 8.590G
+[04:00:43] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 6659b58c, HEIGHT: 839108, DIFF: 8.590G
+[04:00:46] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 4ad5c5e9, HEIGHT: 839108, DIFF: 8.590G
+[04:00:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:00:57 ===================
+[04:00:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:00:57] INFO - | 0|  1060| 19.21 M|     0|     0|  0|  76|  45|    | 60|1657| 4498|  93| 252.8 K|
+[04:00:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:00:57] INFO - |    Total: 19.21 M|     0|     0|  0|  76| Uptime:  0D 00:01:00        CPU:  3% |
+[04:00:57] INFO - ==================================================================================
+[04:00:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:01:04] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: c2eb4364, HEIGHT: 839108, DIFF: 8.590G
+[04:01:04] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: e6f32ec5, HEIGHT: 839108, DIFF: 8.590G
+[04:01:14] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 611b316e, HEIGHT: 839108, DIFF: 8.590G
+[04:01:14] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 7503b2a5, HEIGHT: 839108, DIFF: 8.590G
+[04:01:17] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 4f1118ab, HEIGHT: 839108, DIFF: 8.590G
+[04:01:27] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: ecfddb56, HEIGHT: 839108, DIFF: 8.590G
+[04:01:27] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 83a3dddb, HEIGHT: 839108, DIFF: 8.590G
+[04:01:27] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 3f60110e, HEIGHT: 839108, DIFF: 8.590G
+[04:01:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:01:27 ===================
+[04:01:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:01:27] INFO - | 0|  1060| 19.26 M|     0|     0|  0|  77|  47|    | 60|1645| 4498|  94| 250.2 K|
+[04:01:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:01:27] INFO - |    Total: 19.26 M|     0|     0|  0|  77| Uptime:  0D 00:01:30        CPU:  4% |
+[04:01:27] INFO - ==================================================================================
+[04:01:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:01:30] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: ea0a1243, HEIGHT: 839108, DIFF: 8.590G
+[04:01:30] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: f1159a18, HEIGHT: 839108, DIFF: 8.590G
+[04:01:31] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: cb316634, HEIGHT: 839108, DIFF: 8.590G
+[04:01:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:01:57 ===================
+[04:01:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:01:57] INFO - | 0|  1060| 19.34 M|     0|     0|  0|  76|  48|    | 60|1620| 4498|  94| 254.5 K|
+[04:01:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:01:57] INFO - |    Total: 19.34 M|     0|     0|  0|  76| Uptime:  0D 00:02:00        CPU:  5% |
+[04:01:57] INFO - ==================================================================================
+[04:01:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:01:59] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: ef9f1c98, HEIGHT: 839108, DIFF: 8.590G
+[04:01:59] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 6923a7ef, HEIGHT: 839108, DIFF: 8.590G
+[04:02:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:02:27 ===================
+[04:02:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:02:27] INFO - | 0|  1060| 19.40 M|     0|     0|  0|  76|  48|    | 60|1670| 4498|  90| 255.3 K|
+[04:02:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:02:27] INFO - |    Total: 19.40 M|     0|     0|  0|  76| Uptime:  0D 00:02:30        CPU:  5% |
+[04:02:27] INFO - ==================================================================================
+[04:02:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:02:29] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 5d24776e, HEIGHT: 839108, DIFF: 8.590G
+[04:02:31] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: c0460ebb, HEIGHT: 839108, DIFF: 8.590G
+[04:02:31] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: f5078725, HEIGHT: 839108, DIFF: 8.590G
+[04:02:45] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 6fae9a04, HEIGHT: 839108, DIFF: 8.590G
+[04:02:45] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 922d5835, HEIGHT: 839108, DIFF: 8.590G
+[04:02:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:02:57 ===================
+[04:02:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:02:57] INFO - | 0|  1060| 19.66 M|     0|     0|  0|  76|  49|    | 60|1607| 4498|  95| 258.7 K|
+[04:02:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:02:57] INFO - |    Total: 19.66 M|     0|     0|  0|  76| Uptime:  0D 00:03:00        CPU:  3% |
+[04:02:57] INFO - ==================================================================================
+[04:02:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:03:13] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 875687ab, HEIGHT: 839108, DIFF: 8.590G
+[04:03:13] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 72193633, HEIGHT: 839108, DIFF: 8.590G
+[04:03:16] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: a89773a2, HEIGHT: 839108, DIFF: 8.590G
+[04:03:17] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 6d30889a, HEIGHT: 839108, DIFF: 8.590G
+[04:03:19] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 29eedc02, HEIGHT: 839108, DIFF: 8.590G
+[04:03:21] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 5bcbb131, HEIGHT: 839108, DIFF: 8.590G
+[04:03:22] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 08e398f2, HEIGHT: 839108, DIFF: 8.590G
+[04:03:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:03:27 ===================
+[04:03:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:03:27] INFO - | 0|  1060| 19.92 M|     0|     0|  0|  78|  49|    | 60|1670| 4498|  96| 255.4 K|
+[04:03:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:03:27] INFO - |    Total: 19.92 M|     0|     0|  0|  78| Uptime:  0D 00:03:30        CPU:  0% |
+[04:03:27] INFO - ==================================================================================
+[04:03:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:03:39] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: fd38b78d, HEIGHT: 839108, DIFF: 8.590G
+[04:03:39] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 7cdf43a3, HEIGHT: 839108, DIFF: 8.590G
+[04:03:42] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: c967f98b, HEIGHT: 839108, DIFF: 8.590G
+[04:03:45] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 6c1692e6, HEIGHT: 839108, DIFF: 8.590G
+[04:03:48] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: c1798395, HEIGHT: 839108, DIFF: 8.590G
+[04:03:55] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: a32b2051, HEIGHT: 839108, DIFF: 8.590G
+[04:03:55] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 577a2d7f, HEIGHT: 839108, DIFF: 8.590G
+[04:03:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:03:57 ===================
+[04:03:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:03:57] INFO - | 0|  1060| 19.91 M|     0|     0|  0|  79|  50|    | 60|1670| 4498|  93| 252.1 K|
+[04:03:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:03:57] INFO - |    Total: 19.91 M|     0|     0|  0|  79| Uptime:  0D 00:04:00        CPU:  0% |
+[04:03:57] INFO - ==================================================================================
+[04:03:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:04:14] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: c2c15f83, HEIGHT: 839108, DIFF: 8.590G
+[04:04:14] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 579d1c97, HEIGHT: 839108, DIFF: 8.590G
+[04:04:15] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 4c3caa31, HEIGHT: 839108, DIFF: 8.590G
+[04:04:15] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: bf631d47, HEIGHT: 839108, DIFF: 8.590G
+[04:04:22] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: aa964437, HEIGHT: 839108, DIFF: 8.590G
+[04:04:22] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 22617df2, HEIGHT: 839108, DIFF: 8.590G
+[04:04:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:04:27 ===================
+[04:04:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:04:27] INFO - | 0|  1060| 19.91 M|     0|     0|  0|  77|  50|    | 60|1620| 4498|  93| 258.6 K|
+[04:04:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:04:27] INFO - |    Total: 19.91 M|     0|     0|  0|  77| Uptime:  0D 00:04:30        CPU:  0% |
+[04:04:27] INFO - ==================================================================================
+[04:04:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:04:44] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: e5aa87fd, HEIGHT: 839108, DIFF: 8.590G
+[04:04:44] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: c7055214, HEIGHT: 839108, DIFF: 8.590G
+[04:04:44] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: c4cb6f9d, HEIGHT: 839108, DIFF: 8.590G
+[04:04:46] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 1b73ad77, HEIGHT: 839108, DIFF: 8.590G
+[04:04:46] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: aebb2742, HEIGHT: 839108, DIFF: 8.590G
+[04:04:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:04:57 ===================
+[04:04:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:04:57] INFO - | 0|  1060| 19.92 M|     0|     0|  0|  78|  50|    | 60|1670| 4498|  96| 255.3 K|
+[04:04:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:04:57] INFO - |    Total: 19.92 M|     0|     0|  0|  78| Uptime:  0D 00:05:00        CPU:  0% |
+[04:04:57] INFO - ==================================================================================
+[04:04:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:05:09] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 8888111e, HEIGHT: 839108, DIFF: 8.590G
+[04:05:09] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 42689b66, HEIGHT: 839108, DIFF: 8.590G
+[04:05:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:05:27 ===================
+[04:05:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:05:27] INFO - | 0|  1060| 19.79 M|     0|     0|  0|  77|  50|    | 60|1620| 4498|  94| 257.0 K|
+[04:05:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:05:27] INFO - |    Total: 19.79 M|     0|     0|  0|  77| Uptime:  0D 00:05:30        CPU:  7% |
+[04:05:27] INFO - ==================================================================================
+[04:05:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:05:39] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 8fedc34b, HEIGHT: 839108, DIFF: 8.590G
+[04:05:50] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 12d47607, HEIGHT: 839108, DIFF: 8.590G
+[04:05:50] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 33b8289a, HEIGHT: 839108, DIFF: 8.590G
+[04:05:51] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: e58aaabd, HEIGHT: 839108, DIFF: 8.590G
+[04:05:52] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 8947b205, HEIGHT: 839108, DIFF: 8.590G
+[04:05:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:05:57 ===================
+[04:05:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:05:57] INFO - | 0|  1060| 19.79 M|     0|     0|  0|  78|  50|    | 60|1670| 4498|  94| 253.7 K|
+[04:05:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:05:57] INFO - |    Total: 19.79 M|     0|     0|  0|  78| Uptime:  0D 00:06:00        CPU:  4% |
+[04:05:57] INFO - ==================================================================================
+[04:05:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:06:16] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: a5ca84a2, HEIGHT: 839108, DIFF: 8.590G
+[04:06:16] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 7bb32f4e, HEIGHT: 839108, DIFF: 8.590G
+[04:06:19] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: ca30228a, HEIGHT: 839108, DIFF: 8.590G
+[04:06:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:06:27 ===================
+[04:06:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:06:27] INFO - | 0|  1060| 19.92 M|     0|     0|  0|  77|  50|    | 60|1607| 4498|  92| 258.7 K|
+[04:06:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:06:27] INFO - |    Total: 19.92 M|     0|     0|  0|  77| Uptime:  0D 00:06:30        CPU:  0% |
+[04:06:27] INFO - ==================================================================================
+[04:06:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:06:48] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: e1e9c930, HEIGHT: 839108, DIFF: 8.590G
+[04:06:48] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 01088294, HEIGHT: 839108, DIFF: 8.590G
+[04:06:51] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 91ba024b, HEIGHT: 839108, DIFF: 8.590G
+[04:06:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:06:57 ===================
+[04:06:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:06:57] INFO - | 0|  1060| 19.93 M|     0|     0|  0|  77|  50|    | 60|1620| 4498|  93| 258.9 K|
+[04:06:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:06:57] INFO - |    Total: 19.93 M|     0|     0|  0|  77| Uptime:  0D 00:07:00        CPU:  0% |
+[04:06:57] INFO - ==================================================================================
+[04:06:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:06:59] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: a4c0a8fe, HEIGHT: 839108, DIFF: 8.590G
+[04:06:59] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 4bc0cc9c, HEIGHT: 839108, DIFF: 8.590G
+[04:07:02] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 745d9ae6, HEIGHT: 839108, DIFF: 8.590G
+[04:07:11] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: dee54e27, HEIGHT: 839108, DIFF: 8.590G
+[04:07:11] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: e212b11e, HEIGHT: 839108, DIFF: 8.590G
+[04:07:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:07:27 ===================
+[04:07:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:07:27] INFO - | 0|  1060| 19.92 M|     0|     0|  0|  77|  51|    | 60|1620| 4498|  94| 258.7 K|
+[04:07:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:07:27] INFO - |    Total: 19.92 M|     0|     0|  0|  77| Uptime:  0D 00:07:30        CPU:  1% |
+[04:07:27] INFO - ==================================================================================
+[04:07:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:07:28] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: c8b481da, HEIGHT: 839108, DIFF: 8.590G
+[04:07:28] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 2135fe19, HEIGHT: 839108, DIFF: 8.590G
+[04:07:31] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 5d16f714, HEIGHT: 839108, DIFF: 8.590G
+[04:07:31] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 87c5d87a, HEIGHT: 839108, DIFF: 8.590G
+[04:07:39] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 0e24e861, HEIGHT: 839108, DIFF: 8.590G
+[04:07:39] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 3b77adcc, HEIGHT: 839108, DIFF: 8.590G
+[04:07:53] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: b0b96d79, HEIGHT: 839108, DIFF: 8.590G
+[04:07:53] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 2bf2fd18, HEIGHT: 839108, DIFF: 8.590G
+[04:07:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:07:57 ===================
+[04:07:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:07:57] INFO - | 0|  1060| 19.93 M|     0|     0|  0|  32|  48|    | 61|1784| 4498|   1| 622.7 K|
+[04:07:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:07:57] INFO - |    Total: 19.93 M|     0|     0|  0|  32| Uptime:  0D 00:08:00        CPU:  0% |
+[04:07:57] INFO - ==================================================================================
+[04:07:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:08:03] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: ef249866, HEIGHT: 839108, DIFF: 8.590G
+[04:08:03] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: d07d4dd3, HEIGHT: 839108, DIFF: 8.590G
+[04:08:06] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 96329950, HEIGHT: 839108, DIFF: 8.590G
+[04:08:10] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 66ca79bf, HEIGHT: 839108, DIFF: 8.590G
+[04:08:10] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 640f2f47, HEIGHT: 839108, DIFF: 8.590G
+[04:08:10] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 05f536c9, HEIGHT: 839108, DIFF: 8.590G
+[04:08:10] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: f5687305, HEIGHT: 839108, DIFF: 8.590G
+[04:08:16] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: c8d37fd7, HEIGHT: 839108, DIFF: 8.590G
+[04:08:16] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: c9cebb8d, HEIGHT: 839108, DIFF: 8.590G
+[04:08:26] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 07e52e0d, HEIGHT: 839108, DIFF: 8.590G
+[04:08:26] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 04129362, HEIGHT: 839108, DIFF: 8.590G
+[04:08:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:08:27 ===================
+[04:08:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:08:27] INFO - | 0|  1060| 19.88 M|     0|     0|  0|  77|  52|    | 60|1620| 4498|  94| 258.1 K|
+[04:08:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:08:27] INFO - |    Total: 19.88 M|     0|     0|  0|  77| Uptime:  0D 00:08:30        CPU:  0% |
+[04:08:27] INFO - ==================================================================================
+[04:08:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:08:29] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 080a6934, HEIGHT: 839108, DIFF: 8.590G
+[04:08:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:08:57 ===================
+[04:08:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:08:57] INFO - | 0|  1060| 19.92 M|     0|     0|  0|  77|  52|    | 60|1620| 4498|  94| 258.7 K|
+[04:08:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:08:57] INFO - |    Total: 19.92 M|     0|     0|  0|  77| Uptime:  0D 00:09:00        CPU:  1% |
+[04:08:57] INFO - ==================================================================================
+[04:08:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:08:59] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 816c8320, HEIGHT: 839108, DIFF: 8.590G
+[04:09:06] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: a0697aa3, HEIGHT: 839108, DIFF: 8.590G
+[04:09:07] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: f28a53b7, HEIGHT: 839108, DIFF: 8.590G
+[04:09:09] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 736ae2c2, HEIGHT: 839108, DIFF: 8.590G
+[04:09:18] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 277ec1f2, HEIGHT: 839108, DIFF: 8.590G
+[04:09:19] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 1960e8c6, HEIGHT: 839108, DIFF: 8.590G
+[04:09:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:09:27 ===================
+[04:09:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:09:27] INFO - | 0|  1060| 19.89 M|     0|     0|  0|  78|  55|    | 27|1670| 4498|  94| 254.9 K|
+[04:09:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:09:27] INFO - |    Total: 19.89 M|     0|     0|  0|  78| Uptime:  0D 00:09:30        CPU:  1% |
+[04:09:27] INFO - ==================================================================================
+[04:09:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:09:28] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: d07105a7, HEIGHT: 839108, DIFF: 8.590G
+[04:09:28] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: e61079dd, HEIGHT: 839108, DIFF: 8.590G
+[04:09:31] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 1d47eedd, HEIGHT: 839108, DIFF: 8.590G
+[04:09:31] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: ee17ef40, HEIGHT: 839108, DIFF: 8.590G
+[04:09:33] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: c93c5f03, HEIGHT: 839108, DIFF: 8.590G
+[04:09:33] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 2d01b563, HEIGHT: 839108, DIFF: 8.590G
+[04:09:40] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 944efd3b, HEIGHT: 839108, DIFF: 8.590G
+[04:09:40] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 90e78d0d, HEIGHT: 839108, DIFF: 8.590G
+[04:09:42] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 0c846d92, HEIGHT: 839108, DIFF: 8.590G
+[04:09:42] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 696eb92c, HEIGHT: 839108, DIFF: 8.590G
+[04:09:44] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 0bf2d654, HEIGHT: 839108, DIFF: 8.590G
+[04:09:44] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: d5426d62, HEIGHT: 839108, DIFF: 8.590G
+[04:09:55] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: e02f9b67, HEIGHT: 839108, DIFF: 8.590G
+[04:09:55] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 77007b77, HEIGHT: 839108, DIFF: 8.590G
+[04:09:56] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 956c324f, HEIGHT: 839108, DIFF: 8.590G
+[04:09:56] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 3efced6e, HEIGHT: 839108, DIFF: 8.590G
+[04:09:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:09:57 ===================
+[04:09:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:09:57] INFO - | 0|  1060| 19.78 M|     0|     0|  0|  76|  57|    | 50|1594| 4498|  93| 260.3 K|
+[04:09:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:09:57] INFO - |    Total: 19.78 M|     0|     0|  0|  76| Uptime:  0D 00:10:00        CPU:  3% |
+[04:09:57] INFO - ==================================================================================
+[04:09:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:10:03] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 4e20ec75, HEIGHT: 839108, DIFF: 8.590G
+[04:10:03] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 497f7726, HEIGHT: 839108, DIFF: 8.590G
+[04:10:14] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 2b9442a0, HEIGHT: 839108, DIFF: 8.590G
+[04:10:14] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 9f7dc43d, HEIGHT: 839108, DIFF: 8.590G
+[04:10:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:10:27 ===================
+[04:10:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:10:27] INFO - | 0|  1060| 19.70 M|     0|     0|  0|  77|  56|    | 50|1620| 4498|  94| 255.8 K|
+[04:10:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:10:27] INFO - |    Total: 19.70 M|     0|     0|  0|  77| Uptime:  0D 00:10:30        CPU:  3% |
+[04:10:27] INFO - ==================================================================================
+[04:10:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:10:44] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 3b25ddb5, HEIGHT: 839108, DIFF: 8.590G
+[04:10:52] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: b7f9d4f2, HEIGHT: 839108, DIFF: 8.590G
+[04:10:52] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: e85c4f39, HEIGHT: 839108, DIFF: 8.590G
+[04:10:56] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: c9ac9cf5, HEIGHT: 839108, DIFF: 8.590G
+[04:10:56] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 41834ffc, HEIGHT: 839108, DIFF: 8.590G
+[04:10:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:10:57 ===================
+[04:10:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:10:57] INFO - | 0|  1060| 19.74 M|     0|     0|  0|  78|  56|    | 50|1657| 4498|  96| 253.1 K|
+[04:10:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:10:57] INFO - |    Total: 19.74 M|     0|     0|  0|  78| Uptime:  0D 00:11:00        CPU:  3% |
+[04:10:57] INFO - ==================================================================================
+[04:10:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:10:59] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: e648e5b8, HEIGHT: 839108, DIFF: 8.590G
+[04:11:23] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 0994db16, HEIGHT: 839108, DIFF: 8.590G
+[04:11:24] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: a6ee0cf1, HEIGHT: 839108, DIFF: 8.590G
+[04:11:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:11:27 ===================
+[04:11:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:11:27] INFO - | 0|  1060| 19.91 M|     0|     0|  0|  77|  57|    | 50|1620| 4498|  94| 258.5 K|
+[04:11:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:11:27] INFO - |    Total: 19.91 M|     0|     0|  0|  77| Uptime:  0D 00:11:30        CPU:  0% |
+[04:11:27] INFO - ==================================================================================
+[04:11:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:11:36] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: a3545164, HEIGHT: 839108, DIFF: 8.590G
+[04:11:36] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: eb3b5568, HEIGHT: 839108, DIFF: 8.590G
+[04:11:40] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: b4254a10, HEIGHT: 839108, DIFF: 8.590G
+[04:11:40] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 740d0858, HEIGHT: 839108, DIFF: 8.590G
+[04:11:41] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: f6d2823c, HEIGHT: 839108, DIFF: 8.590G
+[04:11:41] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: b53359c8, HEIGHT: 839108, DIFF: 8.590G
+[04:11:44] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 4ed4b934, HEIGHT: 839108, DIFF: 8.590G
+[04:11:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:11:57 ===================
+[04:11:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:11:57] INFO - | 0|  1060| 19.50 M|     0|     0|  0|  74|  57|    | 50|1594| 4498|  86| 263.6 K|
+[04:11:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:11:57] INFO - |    Total: 19.50 M|     0|     0|  0|  74| Uptime:  0D 00:12:00        CPU:  6% |
+[04:11:57] INFO - ==================================================================================
+[04:11:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:12:08] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 8a20d0cc, HEIGHT: 839108, DIFF: 8.590G
+[04:12:08] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 524d1948, HEIGHT: 839108, DIFF: 8.590G
+[04:12:16] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 613bc14d, HEIGHT: 839108, DIFF: 8.590G
+[04:12:16] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 9dc751a5, HEIGHT: 839108, DIFF: 8.590G
+[04:12:19] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: c0db5210, HEIGHT: 839108, DIFF: 8.590G
+[04:12:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:12:27 ===================
+[04:12:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:12:27] INFO - | 0|  1060| 19.07 M|     0|     0|  0|  77|  57|    | 50|1645| 4498|  91| 247.7 K|
+[04:12:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:12:27] INFO - |    Total: 19.07 M|     0|     0|  0|  77| Uptime:  0D 00:12:30        CPU:  4% |
+[04:12:27] INFO - ==================================================================================
+[04:12:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:12:42] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 6a434967, HEIGHT: 839108, DIFF: 8.590G
+[04:12:42] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 5ee198b7, HEIGHT: 839108, DIFF: 8.590G
+[04:12:46] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: fbd0202f, HEIGHT: 839108, DIFF: 8.590G
+[04:12:46] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 34512678, HEIGHT: 839108, DIFF: 8.590G
+[04:12:55] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: d89d914f, HEIGHT: 839108, DIFF: 8.590G
+[04:12:55] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 75315490, HEIGHT: 839108, DIFF: 8.590G
+[04:12:55] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 0e6ac4bb, HEIGHT: 839108, DIFF: 8.590G
+[04:12:56] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 3f64181b, HEIGHT: 839108, DIFF: 8.590G
+[04:12:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:12:57 ===================
+[04:12:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:12:57] INFO - | 0|  1060| 19.06 M|     0|     0|  0|  77|  57|    | 50|1670| 4498|  92| 247.5 K|
+[04:12:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:12:57] INFO - |    Total: 19.06 M|     0|     0|  0|  77| Uptime:  0D 00:13:00        CPU:  4% |
+[04:12:57] INFO - ==================================================================================
+[04:12:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:13:27] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 36d28018, HEIGHT: 839108, DIFF: 8.590G
+[04:13:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:13:27 ===================
+[04:13:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:13:27] INFO - | 0|  1060| 18.65 M|     0|     0|  0|  79|  58|    | 50|1695| 4498|  92| 236.0 K|
+[04:13:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:13:27] INFO - |    Total: 18.65 M|     0|     0|  0|  79| Uptime:  0D 00:13:30        CPU:  8% |
+[04:13:27] INFO - ==================================================================================
+[04:13:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:13:37] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: ff1a764e, HEIGHT: 839108, DIFF: 8.590G
+[04:13:38] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 7c6a05a0, HEIGHT: 839108, DIFF: 8.590G
+[04:13:45] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 9de4a8b6, HEIGHT: 839108, DIFF: 8.590G
+[04:13:45] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 7d39c625, HEIGHT: 839108, DIFF: 8.590G
+[04:13:48] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 88376969, HEIGHT: 839108, DIFF: 8.590G
+[04:13:51] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: ad14bb64, HEIGHT: 839108, DIFF: 8.590G
+[04:13:54] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: d7a0934c, HEIGHT: 839108, DIFF: 8.590G
+[04:13:55] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 26498c57, HEIGHT: 839108, DIFF: 8.590G
+[04:13:55] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 30c491ca, HEIGHT: 839108, DIFF: 8.590G
+[04:13:57] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 64b816a4, HEIGHT: 839108, DIFF: 8.590G
+[04:13:57] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 7cb4d4f9, HEIGHT: 839108, DIFF: 8.590G
+[04:13:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:13:57 ===================
+[04:13:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:13:57] INFO - | 0|  1060| 18.59 M|     0|     0|  0|  77|  57|    | 50|1670| 4498|  91| 241.5 K|
+[04:13:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:13:57] INFO - |    Total: 18.59 M|     0|     0|  0|  77| Uptime:  0D 00:14:00        CPU:  4% |
+[04:13:57] INFO - ==================================================================================
+[04:13:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:14:00] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: ef1ad907, HEIGHT: 839108, DIFF: 8.590G
+[04:14:22] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 541af4fa, HEIGHT: 839108, DIFF: 8.590G
+[04:14:22] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 1dea238b, HEIGHT: 839108, DIFF: 8.590G
+[04:14:26] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 844cd2bd, HEIGHT: 839108, DIFF: 8.590G
+[04:14:26] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: fff39b61, HEIGHT: 839108, DIFF: 8.590G
+[04:14:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:14:27 ===================
+[04:14:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:14:27] INFO - | 0|  1060| 18.60 M|     0|     0|  0|  79|  58|    | 50|1695| 4498|  92| 235.5 K|
+[04:14:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:14:27] INFO - |    Total: 18.60 M|     0|     0|  0|  79| Uptime:  0D 00:14:30        CPU:  4% |
+[04:14:27] INFO - ==================================================================================
+[04:14:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:14:29] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 91886b7c, HEIGHT: 839108, DIFF: 8.590G
+[04:14:32] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: fb74453a, HEIGHT: 839108, DIFF: 8.590G
+[04:14:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:14:57 ===================
+[04:14:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:14:57] INFO - | 0|  1060| 18.70 M|     0|     0|  0|  77|  58|    | 50|1683| 4498|  90| 242.9 K|
+[04:14:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:14:57] INFO - |    Total: 18.70 M|     0|     0|  0|  77| Uptime:  0D 00:15:00        CPU:  3% |
+[04:14:57] INFO - ==================================================================================
+[04:14:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:15:03] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 81cbb6de, HEIGHT: 839108, DIFF: 8.590G
+[04:15:05] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 65e9d59b, HEIGHT: 839108, DIFF: 8.590G
+[04:15:06] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 0395191b, HEIGHT: 839108, DIFF: 8.590G
+[04:15:17] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: e8a9ca5f, HEIGHT: 839108, DIFF: 8.590G
+[04:15:17] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 64048199, HEIGHT: 839108, DIFF: 8.590G
+[04:15:20] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: f08fdcc8, HEIGHT: 839108, DIFF: 8.590G
+[04:15:20] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: e2c2bee4, HEIGHT: 839108, DIFF: 8.590G
+[04:15:27] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 93a25666, HEIGHT: 839108, DIFF: 8.590G
+[04:15:27] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 5b0e584b, HEIGHT: 839108, DIFF: 8.590G
+[04:15:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:15:27 ===================
+[04:15:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:15:27] INFO - | 0|  1060| 19.14 M|     0|     0|  0|  77|  57|    | 50|1582| 4498|  90| 248.6 K|
+[04:15:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:15:27] INFO - |    Total: 19.14 M|     0|     0|  0|  77| Uptime:  0D 00:15:30        CPU:  4% |
+[04:15:27] INFO - ==================================================================================
+[04:15:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:15:37] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 28035d48, HEIGHT: 839108, DIFF: 8.590G
+[04:15:38] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: b668bf17, HEIGHT: 839108, DIFF: 8.590G
+[04:15:44] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 5bfaec53, HEIGHT: 839108, DIFF: 8.590G
+[04:15:44] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: bb9cacfd, HEIGHT: 839108, DIFF: 8.590G
+[04:15:47] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 73f287ce, HEIGHT: 839108, DIFF: 8.590G
+[04:15:47] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: fbaf8729, HEIGHT: 839108, DIFF: 8.590G
+[04:15:49] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: d9ab3b14, HEIGHT: 839108, DIFF: 8.590G
+[04:15:49] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: ee1b1f48, HEIGHT: 839108, DIFF: 8.590G
+[04:15:52] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: d7c22b09, HEIGHT: 839108, DIFF: 8.590G
+[04:15:53] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 18ab8203, HEIGHT: 839108, DIFF: 8.590G
+[04:15:54] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 57947dbb, HEIGHT: 839108, DIFF: 8.590G
+[04:15:57] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 5b086e2a, HEIGHT: 839108, DIFF: 8.590G
+[04:15:57] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 297a2bea, HEIGHT: 839108, DIFF: 8.590G
+[04:15:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:15:57 ===================
+[04:15:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:15:57] INFO - | 0|  1060| 19.76 M|     0|     0|  0|  76|  57|    | 50|1620| 4498|  94| 259.9 K|
+[04:15:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:15:57] INFO - |    Total: 19.76 M|     0|     0|  0|  76| Uptime:  0D 00:16:00        CPU:  2% |
+[04:15:57] INFO - ==================================================================================
+[04:15:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:16:00] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 0de11207, HEIGHT: 839108, DIFF: 8.590G
+[04:16:18] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 1010a87c, HEIGHT: 839108, DIFF: 8.590G
+[04:16:18] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 88a63f01, HEIGHT: 839108, DIFF: 8.590G
+[04:16:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:16:27 ===================
+[04:16:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:16:27] INFO - | 0|  1060| 19.56 M|     0|     0|  0|  77|  58|    | 50|1620| 4498|  93| 254.0 K|
+[04:16:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:16:27] INFO - |    Total: 19.56 M|     0|     0|  0|  77| Uptime:  0D 00:16:30        CPU:  2% |
+[04:16:27] INFO - ==================================================================================
+[04:16:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:16:41] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 92bebd78, HEIGHT: 839108, DIFF: 8.590G
+[04:16:41] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 09201969, HEIGHT: 839108, DIFF: 8.590G
+[04:16:48] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: f9e12768, HEIGHT: 839108, DIFF: 8.590G
+[04:16:48] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 2878fb2a, HEIGHT: 839108, DIFF: 8.590G
+[04:16:53] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 89312235, HEIGHT: 839108, DIFF: 8.590G
+[04:16:53] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 06d30197, HEIGHT: 839108, DIFF: 8.590G
+[04:16:56] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 0949e92d, HEIGHT: 839108, DIFF: 8.590G
+[04:16:56] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: b8b07f6d, HEIGHT: 839108, DIFF: 8.590G
+[04:16:56] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 9262fb4d, HEIGHT: 839108, DIFF: 8.590G
+[04:16:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:16:57 ===================
+[04:16:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:16:57] INFO - | 0|  1060| 18.74 M|     0|     0|  0|  77|  58|    | 50|1670| 4498|  91| 243.4 K|
+[04:16:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:16:57] INFO - |    Total: 18.74 M|     0|     0|  0|  77| Uptime:  0D 00:17:00        CPU:  5% |
+[04:16:57] INFO - ==================================================================================
+[04:16:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:17:14] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 773d782e, HEIGHT: 839108, DIFF: 8.590G
+[04:17:14] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 265e7ad6, HEIGHT: 839108, DIFF: 8.590G
+[04:17:17] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 47101e06, HEIGHT: 839108, DIFF: 8.590G
+[04:17:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:17:27 ===================
+[04:17:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:17:27] INFO - | 0|  1060| 19.63 M|     0|     0|  0|  77|  58|    | 50|1620| 4498|  94| 254.9 K|
+[04:17:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:17:27] INFO - |    Total: 19.63 M|     0|     0|  0|  77| Uptime:  0D 00:17:30        CPU:  2% |
+[04:17:27] INFO - ==================================================================================
+[04:17:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:17:31] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 6c1fb9c8, HEIGHT: 839108, DIFF: 8.590G
+[04:17:31] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 7d369c57, HEIGHT: 839108, DIFF: 8.590G
+[04:17:34] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: d869bfbd, HEIGHT: 839108, DIFF: 8.590G
+[04:17:40] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 005700cb, HEIGHT: 839108, DIFF: 8.590G
+[04:17:40] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 67fca318, HEIGHT: 839108, DIFF: 8.590G
+[04:17:43] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 28bbc6e6, HEIGHT: 839108, DIFF: 8.590G
+[04:17:43] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 113cd6cc, HEIGHT: 839108, DIFF: 8.590G
+[04:17:44] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 634edcfd, HEIGHT: 839108, DIFF: 8.590G
+[04:17:44] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 4bf06aed, HEIGHT: 839108, DIFF: 8.590G
+[04:17:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:17:57 ===================
+[04:17:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:17:57] INFO - | 0|  1060| 19.75 M|     0|     0|  0|  79|  58|    | 50|1657| 4498|  93| 250.0 K|
+[04:17:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:17:57] INFO - |    Total: 19.75 M|     0|     0|  0|  79| Uptime:  0D 00:18:00        CPU:  2% |
+[04:17:57] INFO - ==================================================================================
+[04:17:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:18:14] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: d7a391ba, HEIGHT: 839108, DIFF: 8.590G
+[04:18:16] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: b1d8d935, HEIGHT: 839108, DIFF: 8.590G
+[04:18:16] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 8c7339d1, HEIGHT: 839108, DIFF: 8.590G
+[04:18:21] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 47236e24, HEIGHT: 839108, DIFF: 8.590G
+[04:18:21] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: aa75c3df, HEIGHT: 839108, DIFF: 8.590G
+[04:18:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:18:27 ===================
+[04:18:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:18:27] INFO - | 0|  1060| 19.62 M|     0|     0|  0|  77|  58|    | 50|1607| 4498|  95| 254.8 K|
+[04:18:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:18:27] INFO - |    Total: 19.62 M|     0|     0|  0|  77| Uptime:  0D 00:18:30        CPU:  2% |
+[04:18:27] INFO - ==================================================================================
+[04:18:27] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:18:38] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 2cadbf44, HEIGHT: 839108, DIFF: 8.590G
+[04:18:38] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 8042c8ad, HEIGHT: 839108, DIFF: 8.590G
+[04:18:57] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:18:57 ===================
+[04:18:57] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:18:57] INFO - | 0|  1060| 19.65 M|     0|     0|  0|  75|  58|    | 50|1594| 4498|  92| 262.0 K|
+[04:18:57] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:18:57] INFO - |    Total: 19.65 M|     0|     0|  0|  75| Uptime:  0D 00:19:00        CPU:  3% |
+[04:18:57] INFO - ==================================================================================
+[04:18:57] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[04:19:03] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 5dfcc4f9, HEIGHT: 839108, DIFF: 8.590G
+[04:19:03] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 1d636129, HEIGHT: 839108, DIFF: 8.590G
+[04:19:06] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 331318a7, HEIGHT: 839108, DIFF: 8.590G
+[04:19:06] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 5bec8b01, HEIGHT: 839108, DIFF: 8.590G
+[04:19:10] INFO - ethash - #1 Share accepted, 33 ms. [DEVICE 0, #1]
+[04:19:27] INFO - ================== [nbminer v39.7] Summary 2021-11-01 04:19:27 ===================
+[04:19:27] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[04:19:27] INFO - | 0|  1060| 19.60 M|     1|     0|  0|  77|  58|    | 50|1594| 4498|  90| 254.5 K|
+[04:19:27] INFO - |------------------+------+------+---+----+--------------------------------------|
+[04:19:27] INFO - |    Total: 19.60 M|     1|     0|  0|  77| Uptime:  0D 00:19:30        CPU:  4% |
+[04:19:27] INFO - ==================================================================================
+[04:19:27] INFO - ethash - On Pool   10m: 13.66 M   4h: 7.342 M   24h: 7.342 M
+[04:19:29] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 70f10c04, HEIGHT: 839108, DIFF: 8.590G
+[04:19:29] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 2740cb8d, HEIGHT: 839108, DIFF: 8.590G
+[04:19:30] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 63f701d0, HEIGHT: 839108, DIFF: 8.590G
+[04:19:30] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 99e93c81, HEIGHT: 839108, DIFF: 8.590G
+[04:19:30] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 5d0759aa, HEIGHT: 839108, DIFF: 8.590G
+[04:19:42] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 43d42d8e, HEIGHT: 839108, DIFF: 8.590G
+[04:19:43] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 0c8211cb, HEIGHT: 839108, DIFF: 8.590G

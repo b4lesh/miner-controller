@@ -1,0 +1,58 @@
+[18:05:41] INFO - ----------------------------------------------
+[18:05:41] INFO - |                                            |
+[18:05:41] INFO - |                                            |
+[18:05:41] INFO - |                                            |
+[18:05:41] INFO - |                                            |
+[18:05:41] INFO - |                                            |
+[18:05:41] INFO - |                                            |
+[18:05:41] INFO - |                                            |
+[18:05:41] INFO - |         NBMiner - Crypto GPU Miner         |
+[18:05:41] INFO - |                    39.7                    |
+[18:05:41] INFO - |                                            |
+[18:05:41] INFO - ----------------------------------------------
+[18:05:41] INFO - ------------------- System -------------------
+[18:05:41] INFO - OS:     Windows 10 Version 2009, 10.0.22000
+[18:05:41] INFO - CPU:    11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz
+[18:05:41] INFO - RAM:    25839 MB / 32623 MB
+[18:05:41] INFO - VMEM:   26004 MB / 40815 MB
+[18:05:41] INFO - CU_DRV: 11.5, 496.49
+[18:05:41] INFO - ------------------- Config -------------------
+[18:05:41] INFO - ALGO:   ethash
+[18:05:41] INFO - URL:    stratum+tcp://vethash.poolbinance.com:1800
+[18:05:41] INFO - USER:   Miningb4lesh.GTX1060
+[18:05:41] INFO - TEMP:   limit 90C, start 85C
+[18:05:41] INFO - ------------------- Device -------------------
+[18:05:41] INFO -  |ID|PCI|  CC|Memory|CU|
+[18:05:41] INFO - *| 0|  1|  61| 6143M|10| NVIDIA GeForce GTX 1060 6GB
+[18:05:41] INFO - ----------------------------------------------
+[18:05:42] INFO - ethash - Logging in to vethash.poolbinance.com(76.223.62.235):1800 ...
+[18:05:42] INFO - ethash - Login succeeded.
+[18:05:42] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: dc62e5f2, HEIGHT: 1620920, DIFF: 8.590G
+[18:05:42] INFO - API:  0.0.0.0:22333
+[18:05:42] WARN - API server start failed: The bound address is already in use
+[18:05:44] INFO - Device 0 started, Free mem = 5117 MB.
+[18:05:46] INFO - Light cache built, 2.12 s.
+[18:05:48] INFO - Device 0: DAG - Building, EPOCH 452
+[18:06:01] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 8a0195b2, HEIGHT: 1620920, DIFF: 8.590G
+[18:06:01] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: e6aada88, HEIGHT: 1620920, DIFF: 8.590G
+[18:06:12] INFO - ================== [nbminer v39.7] Summary 2021-11-06 18:06:12 ===================
+[18:06:12] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[18:06:12] INFO - | 0|  1060|  0.000 |     0|     0|  0|  80|  66|    | 60|1847| 4498|  50|  0.000 |
+[18:06:12] INFO - |------------------+------+------+---+----+--------------------------------------|
+[18:06:12] INFO - |    Total:  0.000 |     0|     0|  0|  80| Uptime:  0D 00:00:31        CPU:  7% |
+[18:06:12] INFO - ==================================================================================
+[18:06:12] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[18:06:17] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: afb05788, HEIGHT: 1620920, DIFF: 8.590G
+[18:06:17] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: c3677e05, HEIGHT: 1620920, DIFF: 8.590G
+[18:06:26] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: bf503e2c, HEIGHT: 1620920, DIFF: 8.590G
+[18:06:26] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 93d04f26, HEIGHT: 1620920, DIFF: 8.590G
+[18:06:28] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 79dac8ad, HEIGHT: 1620920, DIFF: 8.590G
+[18:06:28] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 03c7be6c, HEIGHT: 1620920, DIFF: 8.590G
+[18:06:31] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 415b4564, HEIGHT: 1620920, DIFF: 8.590G
+[18:06:42] INFO - ================== [nbminer v39.7] Summary 2021-11-06 18:06:42 ===================
+[18:06:42] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[18:06:42] INFO - | 0|  1060|  0.000 |     0|     0|  0|  79|  61|    | 60|1847| 4498|  27|  0.000 |
+[18:06:42] INFO - |------------------+------+------+---+----+--------------------------------------|
+[18:06:42] INFO - |    Total:  0.000 |     0|     0|  0|  79| Uptime:  0D 00:01:01        CPU:  4% |
+[18:06:42] INFO - ==================================================================================
+[18:06:42] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 

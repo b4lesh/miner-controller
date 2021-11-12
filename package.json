@@ -1,0 +1,10 @@
+{
+  "name": "mining-controller",
+  "version": "0.1.0",
+  "main": "main.ts",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "author": "b4lesh",
+  "license": "ISC"
+}

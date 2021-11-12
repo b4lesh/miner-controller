@@ -1,0 +1,38 @@
+[02:38:18] INFO - ----------------------------------------------
+[02:38:18] INFO - |                                            |
+[02:38:18] INFO - |                                            |
+[02:38:18] INFO - |                                            |
+[02:38:18] INFO - |                                            |
+[02:38:18] INFO - |                                            |
+[02:38:18] INFO - |                                            |
+[02:38:18] INFO - |                                            |
+[02:38:18] INFO - |         NBMiner - Crypto GPU Miner         |
+[02:38:18] INFO - |                    39.7                    |
+[02:38:18] INFO - |                                            |
+[02:38:18] INFO - ----------------------------------------------
+[02:38:18] INFO - ------------------- System -------------------
+[02:38:18] INFO - OS:     Windows 10 Version 2009, 10.0.22000
+[02:38:18] INFO - CPU:    11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz
+[02:38:18] INFO - RAM:    25619 MB / 32623 MB
+[02:38:18] INFO - VMEM:   30455 MB / 40815 MB
+[02:38:18] INFO - CU_DRV: 11.5, 496.49
+[02:38:18] INFO - ------------------- Config -------------------
+[02:38:18] INFO - ALGO:   ethash
+[02:38:18] INFO - URL:    stratum+tcp://vethash.poolbinance.com:1800
+[02:38:18] INFO - USER:   Miningb4lesh.GTX1060
+[02:38:18] INFO - TEMP:   limit 90C, start 85C
+[02:38:18] INFO - ------------------- Device -------------------
+[02:38:18] INFO -  |ID|PCI|  CC|Memory|CU|
+[02:38:18] INFO - *| 0|  1|  61| 6143M|10| NVIDIA GeForce GTX 1060 6GB
+[02:38:18] INFO - ----------------------------------------------
+[02:38:18] INFO - ethash - Logging in to vethash.poolbinance.com(13.248.162.234):1800 ...
+[02:38:18] INFO - ethash - Login succeeded.
+[02:38:18] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: e2ab6c65, HEIGHT: 872249, DIFF: 8.590G
+[02:38:18] INFO - API:  0.0.0.0:22333
+[02:38:18] INFO - API server started.
+[02:38:20] INFO - Device 0 started, Free mem = 5228 MB.
+[02:38:22] INFO - Light cache built, 1.98 s.
+[02:38:24] INFO - Device 0: DAG - Building, EPOCH 452
+[02:38:32] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: d96c62d8, HEIGHT: 872249, DIFF: 8.590G
+[02:38:32] INFO - ethash - New job: vethash.poolbinance.com:1800, ID: 718c9469, HEIGHT: 872249, DIFF: 8.590G
+[02:38:42] INFO - Device 0: DAG - Built, 17.24 s.
