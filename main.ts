@@ -1,7 +1,8 @@
 import { exec, execFile } from 'child_process'
-import { kill } from 'process'
+import { exit, kill } from 'process'
 import { log, sleep } from './helpers';
 import { Process } from './interfaces/process';
+import { readFileSync } from 'fs';
 
 async function getProcessList(): Promise<Process[]> {
   let resultFromTaskList: string = '';
@@ -52,7 +53,19 @@ async function stopMiner(): Promise<void> {
 }
 
 async function checkGameProcesses(): Promise<boolean> {
-  const games: string[] = ['HorizonZeroDawn.exe', 'LeagueClient.exe'].map((game: string) => game.toLowerCase())
+  const configLines: string[] = readFileSync('./config', 'utf8')
+    .toLowerCase()
+    .split('\n')
+    .map((line: string) => line.trim())
+    .filter((line: string) => line !== '');
+
+  let games: string[];
+  if (configLines[0] === '[GameProcesses]'.toLowerCase()) {
+    games = configLines.splice(1);
+  } else {
+    log('Ошибка конфигурационного файла');
+    exit(1);
+  }
   const processList: Process[] = await getProcessList();
   return processList.some((process: Process) => games.includes(process.name));
 }
