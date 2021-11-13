@@ -4,6 +4,14 @@ import { log, sleep } from './helpers';
 import { Process } from './interfaces/process';
 import { readFileSync } from 'fs';
 
+async function greeting(): Promise<void> {
+  console.clear();
+  log('Start inspector');
+  if (await checkGameProcesses()) {
+    log('Game mode. Miner disabling');
+  }
+}
+
 async function getProcessList(): Promise<Process[]> {
   let resultFromTaskList: string = '';
   exec('tasklist', (err, stdout: string) => {
@@ -75,6 +83,7 @@ function setOverclockProfile(name: 'mining' | 'gaming'): void {
 }
 
 async function main(): Promise<void> {
+  await greeting();
   const status = true;
   while (status) {
     const result: boolean = await checkGameProcesses();
@@ -85,7 +94,7 @@ async function main(): Promise<void> {
       await startMiner();
       setOverclockProfile('mining');
     }
-    await sleep(60000);
+    await sleep(10000);
   }
 }
 
