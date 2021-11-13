@@ -15,7 +15,7 @@ async function getProcessList(): Promise<Process[]> {
     if (dirtyMatch === null) {
       return null;
     }
-    const name: string = dirtyMatch[0];
+    const name: string = dirtyMatch[0].toLowerCase();
     const columns = line.replace(name, '').split(' ').filter((element: string) => element !== '');
     return { name: name, pid: Number(columns[0]) }
   })
